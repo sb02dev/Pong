@@ -1,0 +1,1 @@
+C:\Users\saghy_000\.platformio\packages\toolchain-xtensa32\bin\xtensa-esp32-elf-addr2line.exe -aispfC -e .pioenvs\lolin32\firmware.elf %*
